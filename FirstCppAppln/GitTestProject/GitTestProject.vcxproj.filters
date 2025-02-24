@@ -18,5 +18,13 @@
     <ClCompile Include="GitTestProject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SomeClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SomeClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
