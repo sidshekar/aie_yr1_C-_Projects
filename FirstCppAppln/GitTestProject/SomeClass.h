@@ -7,5 +7,7 @@ class SomeClass{
 
 	~SomeClass();
 
+	void someFunction();
+
 };
 
