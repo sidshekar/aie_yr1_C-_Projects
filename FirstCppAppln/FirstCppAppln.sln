@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "anotherProject", "anotherPr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variablesExcercise", "variablesExcercise\variablesExcercise.vcxproj", "{902389CD-CCB2-453B-B737-73D4711C092B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitTestProject", "GitTestProject\GitTestProject.vcxproj", "{2E3F4C57-682D-4398-9687-A51C83F814BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{902389CD-CCB2-453B-B737-73D4711C092B}.Release|x64.Build.0 = Release|x64
 		{902389CD-CCB2-453B-B737-73D4711C092B}.Release|x86.ActiveCfg = Release|Win32
 		{902389CD-CCB2-453B-B737-73D4711C092B}.Release|x86.Build.0 = Release|Win32
+		{2E3F4C57-682D-4398-9687-A51C83F814BD}.Debug|x64.ActiveCfg = Debug|x64
+		{2E3F4C57-682D-4398-9687-A51C83F814BD}.Debug|x64.Build.0 = Debug|x64
+		{2E3F4C57-682D-4398-9687-A51C83F814BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E3F4C57-682D-4398-9687-A51C83F814BD}.Debug|x86.Build.0 = Debug|Win32
+		{2E3F4C57-682D-4398-9687-A51C83F814BD}.Release|x64.ActiveCfg = Release|x64
+		{2E3F4C57-682D-4398-9687-A51C83F814BD}.Release|x64.Build.0 = Release|x64
+		{2E3F4C57-682D-4398-9687-A51C83F814BD}.Release|x86.ActiveCfg = Release|Win32
+		{2E3F4C57-682D-4398-9687-A51C83F814BD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
